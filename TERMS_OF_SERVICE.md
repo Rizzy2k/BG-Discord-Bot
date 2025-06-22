@@ -22,7 +22,7 @@ Users and server owners agree **not** to:
 The bot and its use must comply with:
 - [Discord Terms of Service and Community Guidelines](https://discord.com/terms)
 - [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Terms-of-Use)
-- [Roblox OAuth 2.0 Developer Policies](https://create.roblox.com/docs/cloud/open-cloud/using-oauth)
+- [Roblox OAuth 2.0 Developer Policies](https://en.help.roblox.com/hc/en-us/articles/15887203369620-Creator-Third-Party-App-Terms)
 
 **Violations** of these policies or any relevant local laws may result in **immediate removal of the bot** from your server.
 
