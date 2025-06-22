@@ -37,7 +37,7 @@ Only the bot owner can access this data.
 The bot complies with:
 - [Discord’s Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)
 - [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Terms-of-Use)
-- [Roblox OAuth 2.0 Policies](https://create.roblox.com/docs/cloud/open-cloud/using-oauth)
+- [Roblox OAuth 2.0 Policies](https://en.help.roblox.com/hc/en-us/articles/15887203369620-Creator-Third-Party-App-Terms)
 
 Violation of these policies can result in bot removal from the violating server.
 
@@ -53,4 +53,4 @@ For questions, unlinking, or data requests:
 
 ---
 
-© [YEAR] [BOT NAME]. All rights reserved.
+© 2025 BG Teamer Bot. All rights reserved.
