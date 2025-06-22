@@ -1,5 +1,5 @@
-# HBG-Discord-Bot
-Legal Policies of The HBG Teamer Bot
+# BG-Discord-Bot
+Legal Policies of The BG Teamer Bot
 
 ## Policies
 
