@@ -1,17 +1,56 @@
 # Privacy Policy
 
-**Effective Date:** June 8, 2025
+## 1 Data Collected
 
-## 1. Data Collection
-This Bot does not actively collect, store, or share personal information beyond what is necessary for its intended functions. Any temporary data used (e.g., user IDs, channel IDs) is stored only in memory and not saved permanently unless explicitly required by a feature.
+The bot collects:
+- **Command usage data** per user for logs, abuse prevention, and improvements.
+- **Roblox OAuth 2.0 data**, if linked:
+  - Roblox Username
+  - Roblox Display Name
+  - Roblox Profile URL
 
-## 2. Third-Party Access
-No data is shared with third-party services. Only the bot owner has access to the Bot and its operation.
+The bot does **not** collect sensitive personal data.
 
-## 3. Data Retention
-If any user or server-related data is stored temporarily for configuration or functionality (e.g., moderation settings), it will be kept only as long as necessary and can be deleted upon request by the server owner.
+## 2 Data Usage
 
-## 4. Your Rights
-As this is a private-use bot:
-- Users may request removal of any stored data by contacting the bot owner directly.
-- If you do not wish the Bot to interact with your data, please request removal of the Bot from your server.
+Collected data is used only for:
+- Providing the bot’s features.
+- Preventing abuse and troubleshooting.
+- Bot improvement by the owner.
+
+Data is **never sold or shared** with third parties.  
+Only the bot owner can access this data.
+
+## 3 Data Storage and Security
+
+- Data is stored securely with reasonable safeguards.
+- The bot owner is **not responsible** for any data leak or unauthorized access despite reasonable precautions.
+
+## 4 User Rights
+
+- Users may unlink their Roblox account at any time.
+- Users may stop using the bot at any time.
+- Users can request data removal where possible by contacting the bot owner.
+
+## 5 Compliance
+
+The bot complies with:
+- [Discord’s Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)
+- [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Terms-of-Use)
+- [Roblox OAuth 2.0 Policies](https://create.roblox.com/docs/cloud/open-cloud/using-oauth)
+
+Violation of these policies can result in bot removal from the violating server.
+
+---
+
+## 📞 Contact
+
+For questions, unlinking, or data requests:
+
+- **Discord:** rizzy_2k  
+- **Roblox:** riqmoney  
+- **Discord Server:** [Join Here](https://discord.gg/NhTAZbenF8)
+
+---
+
+© [YEAR] [BOT NAME]. All rights reserved.
