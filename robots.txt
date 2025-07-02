@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://github.com/Rizzy2k/BG-Discord-Bot/BG-Discord-Bot/sitemap.xml
